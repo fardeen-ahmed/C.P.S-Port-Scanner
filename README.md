@@ -1,5 +1,11 @@
 # Critical Port Scanner (C.P.S) :- A port scanner to check for critical exploitable open ports
 
+This project aims for:-
+```
+1) Finding One's device's open ports.
+2) Can be used as an OSINT Tool.
+
+```
 <img src="https://github.com/fardeen-ahmed/C.P.S/blob/main/Critical%20Port%20Scanner.png" alt="None" align="center" height="100" width="1000">
 <h3> Requirements :-
     
