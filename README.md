@@ -1,7 +1,6 @@
 # Critical Port Scanner (C.P.S) :- A ports scanner for Bug-Scanner
 
-<h3> This scanner is for people targeting specific ports like :->/h3>
-
+<h3> This scanner is for people targeting specific ports like :-</h3>
 ```
     -FTP (21): FTP or File Transfer Protocol is used to transfer files across the Internet. 
     
