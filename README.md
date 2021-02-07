@@ -1,5 +1,6 @@
 # Critical Port Scanner (C.P.S) :- A ports scanner for Bug-Scanner
 
+<img src="https://github.com/fardeen-ahmed/C.P.S/blob/main/Critical%20Port%20Scanner.png" alt="None" align="center" height="100" width="1000">
 <h3> This scanner is for people targeting specific ports like :-</h3>
 
 ```
