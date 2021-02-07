@@ -61,3 +61,4 @@
     
     -HTTP (8080): An alternate port for HTTP.
 ```
+<h2> These are some of the critical ports that it scans. Feel free to use. </h2>
