@@ -2,7 +2,6 @@
 
 <h3> This scanner is for people targeting specific ports like :-</h3>
 ```
-    
     -FTP (21): FTP or File Transfer Protocol is used to transfer files across the Internet. 
     
     -SSH (22): SSH or Secure Shell carries out the task of remotely connecting to a server or host, allowing you to execute a number of commands and move files. 
